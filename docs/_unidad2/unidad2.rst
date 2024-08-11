@@ -33,7 +33,7 @@ ejercicio:
 Experimento 1
 *****************
 
-Realiza el `este <https://natureofcode.com/vectors/#exercise-11>`__ ejercicio.
+Realiza `este <https://natureofcode.com/vectors/#exercise-11>`__ ejercicio.
    
 * ¿Que tuviste que hacer para hacer la conversión propuesta?
 
@@ -135,7 +135,7 @@ Vas a modificarlo para generar este resultado:
     :alt: lerp and color lerp animation
     :scale: 50 %
 
-* Analiza entonce cómo funciona el método ``lerp()``. Nota que además de la interpolación 
+* Analiza entonces cómo funciona el método ``lerp()``. Nota que además de la interpolación 
   lineal de vectores, también puedes hacer interpolación lineal de colores con el método 
   ``lerpColor()``.
 * Dedica un tiempo a estudiar cómo se dibuja una flecha en el método ``drawArrow()``. No 
